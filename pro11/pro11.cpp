@@ -101,6 +101,7 @@ int main()
     printf("cccc");
     PrintD(D, D_SIZE, target);
     //ソート後の配列に対するハッシュ値
+    printf("aaaaaaaaa");
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
